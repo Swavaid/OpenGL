@@ -1,0 +1,2 @@
+D:\learn_by_myself\OpenGL\opengldemo3\Debug\opengldemo3.exe
+D:\learn_by_myself\OpenGL\opengldemo3\Debug\opengldemo3.pdb
